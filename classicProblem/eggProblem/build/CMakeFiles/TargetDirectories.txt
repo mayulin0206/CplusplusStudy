@@ -1,0 +1,3 @@
+/Users/MAYULIN/Program/CplusplusStudy/classicProblem/eggProblem/build/CMakeFiles/rebuild_cache.dir
+/Users/MAYULIN/Program/CplusplusStudy/classicProblem/eggProblem/build/CMakeFiles/edit_cache.dir
+/Users/MAYULIN/Program/CplusplusStudy/classicProblem/eggProblem/build/CMakeFiles/egg.dir
